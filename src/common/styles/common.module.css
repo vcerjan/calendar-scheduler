@@ -1,0 +1,16 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
